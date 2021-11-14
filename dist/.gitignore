@@ -4,3 +4,4 @@
 node_modules
 dist
 .cache
+/important-test-info.txt
